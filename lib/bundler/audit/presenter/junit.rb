@@ -40,7 +40,7 @@ module Bundler
         end
 
         def xml_escape(string)
-          string.gsub(
+          string.to_s.gsub(
             /[<>"'&]/,
             '<' => '&lt;',
             '>' => '&gt;',
