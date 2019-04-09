@@ -2,7 +2,7 @@ name: bundler-budit
 summary: Patch-level verification for Bundler
 description: bundler-budit is a fork of bundler-audit, which provides patch-level verification for Bundled apps.
 license: GPL-3.0+
-authors: Postmodern, Salzig, Gnomus
+authors: Postmodern, Salzig, gnomus
 email: salzig@gmail.com
 homepage: https://github.com/salzig/bundler-audit#readme
 
