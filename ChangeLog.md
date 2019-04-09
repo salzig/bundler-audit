@@ -1,3 +1,7 @@
+### 0.6.3 / 2019-04-09
+
+* Fix: ensure xml_escape tolerates non String Objects
+
 ### 0.6.2 / 2019-04-09
 
 * Add: `--format=default|plain|junit`
