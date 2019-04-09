@@ -1,3 +1,8 @@
+### 0.6.2 / 2019-04-09
+
+* Add: `--format=default|plain|junit`
+* Fix: Escape XML output for junit formatter
+
 ### 0.6.1 / 2019-01-17
 
 * Require bundler `>= 1.2.0, < 3` to support [bundler] 2.0.
